@@ -12,7 +12,7 @@ from ingestion_db import ingest_db
 
 
 logging.basicConfig(
-    filename = "D:/kaif2/04_Projects/Data_Analyst/Python/Vendor_Performance/Logs/Get_Vendor_Summary.log",
+    filename = "Logs/Get_Vendor_Summary.log",
     level= logging.DEBUG,
     format= "%(asctime)s - %(levelname)s - %(message)s",
     filemode= "a"
@@ -117,7 +117,7 @@ if __name__ == "__main__":
    start = time.time()
 
    
-   conn = sqlite3.connect('D:/kaif2/04_Projects/Data_Analyst/Python/Vendor_Performance/Data/Inventory.db')
+   conn = sqlite3.connect('Data/Inventory.db')
 
    logging.info('Creating Vendor Summary Table.....')
    summary_df = create_vendor_summary(conn)
@@ -128,7 +128,7 @@ if __name__ == "__main__":
    logging.info(clean_df.head())
 
    # save cleaned vendor summary as CSV
-   csv_path = r"D:/kaif2/04_Projects/Data_Analyst/Python/Vendor_Performance/Data/vendor_sales_summary.csv"
+   csv_path = r"Data/vendor_sales_summary.csv"
    os.makedirs(os.path.dirname(csv_path), exist_ok=True)
    try:
       clean_df.to_csv(csv_path, index=False, encoding='utf-8')
