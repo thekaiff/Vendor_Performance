@@ -1,0 +1,17 @@
+2025-12-04 14:50:18,547 - INFO - Ingesting begin_inventory.csv in db
+2025-12-04 14:50:23,956 - INFO - Ingesting end_inventory.csv in db
+2025-12-04 14:50:29,616 - INFO - Ingesting purchases.csv in db
+2025-12-04 14:51:32,281 - INFO - Ingesting purchase_prices.csv in db
+2025-12-04 14:51:32,640 - INFO - Ingesting sales.csv in db
+2025-12-04 14:56:14,320 - INFO - Ingesting vendor_invoice.csv in db
+2025-12-04 14:56:14,480 - INFO - --------------Ingestion Completed--------------
+2025-12-04 14:56:14,482 - INFO - Total Time Taken: 5.932296351591746 minutes
+
+2025-12-06 22:44:59,595 - INFO - Ingesting begin_inventory.csv in db
+2025-12-06 22:45:03,823 - INFO - Ingesting end_inventory.csv in db
+2025-12-06 22:45:08,929 - INFO - Ingesting purchases.csv in db
+2025-12-06 22:46:25,593 - INFO - Ingesting purchase_prices.csv in db
+2025-12-06 22:46:25,912 - INFO - Ingesting sales.csv in db
+2025-12-06 22:55:24,219 - INFO - Ingesting vendor_invoice.csv in db
+2025-12-06 22:55:24,425 - INFO - --------------Ingestion Completed--------------
+2025-12-06 22:55:24,425 - INFO - Total Time Taken: 10.413848777612051 minutes
