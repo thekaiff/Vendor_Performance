@@ -74,18 +74,25 @@ The insights and recommendations support <strong>executive decision-making and p
 <h2 align="center">Dashboard Walkthrough</h2>
 
 <table align="center">
-  <tr>
+  <!-- <tr>
     <td align="center">
-      <a href="/Images/summary.gif" target="_blank">
-        <img src="/Images/summary.gif" 
+      <!-- <a href="/Images/dashboard.png" target="_blank">
+        <img src="/Images/dashboard.png" 
               alt="Dashboard Summary"
               style="max-width:100%; height:auto; border-radius:10px;" />
       </a>
       <p><strong>Executive Summary & KPI Overview</strong></p>
     </td>
-  </tr>
+  </tr> -->
 
   <tr>
+    <td align="center">
+      <img src="/Images/dashboard.png" style="max-width:100%; height:auto; border-radius:10px;" />
+      <p><strong>Executive Summary & KPI Overview</strong></p>
+    </td>
+  </tr>
+
+<!--  <tr>
     <td align="center">
       <a href="/Images/prediction.gif" target="_blank">
         <img src="/Images/prediction.gif" 
@@ -94,7 +101,7 @@ The insights and recommendations support <strong>executive decision-making and p
       </a>
       <p><strong>Vendor Pareto, Inventory Risk & Profitability Analysis</strong></p>
     </td>
-  </tr>
+  </tr> -->
 </table>
 
 ---
