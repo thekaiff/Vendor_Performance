@@ -1,8 +1,8 @@
 <div align="center">
-  <img width="320px" src="Images/project_main_image.png" />
+  <img width="320px" src="Images/logo.png" />
 </div>
 
-<h1 align="center">Supplier Profitability & Dependency Risk Analysis</h1>
+<h1 align="center">MerchX Supplier Profitability & Dependency Risk Analysis</h1>
 
 <h3 align="center">Industry: Retail / Wholesale | Supply Chain & Procurement Analytics</h3>
 
@@ -11,10 +11,10 @@
 <table align="center">
   <tr>
     <td width="1440">
-<h2 align="center">Client Background (Business Scenario)</h2>
+<h2 align="center">Client Background</h2>
 
 <p>
-A mid-to-large retail and wholesale enterprise managing a diverse supplier base across multiple product categories faced growing challenges in balancing profitability, inventory efficiency, and supplier dependency. Despite strong sales performance, leadership lacked visibility into which vendors were driving sustainable profit versus locking capital in slow-moving inventory.
+MercX is a mid-to-large retail and wholesale enterprise managing a diverse supplier base across multiple product categories faced growing challenges in balancing profitability, inventory efficiency, and supplier dependency. Despite strong sales performance, leadership lacked visibility into which vendors were driving sustainable profit versus locking capital in slow-moving inventory.
 </p>
 
 <p>
@@ -36,7 +36,7 @@ Reporting to the <strong>Procurement, Finance, and Operations Teams</strong>, an
 The insights and recommendations support <strong>executive decision-making and procurement strategy</strong>, with the objective of improving profitability, reducing operational risk, and optimizing working capital.
 </p>
 
-    </td>
+  </td>
   </tr>
 </table>
 
@@ -74,34 +74,18 @@ The insights and recommendations support <strong>executive decision-making and p
 <h2 align="center">Dashboard Walkthrough</h2>
 
 <table align="center">
-  <!-- <tr>
-    <td align="center">
-      <!-- <a href="/Images/dashboard.png" target="_blank">
-        <img src="/Images/dashboard.png" 
-              alt="Dashboard Summary"
-              style="max-width:100%; height:auto; border-radius:10px;" />
-      </a>
-      <p><strong>Executive Summary & KPI Overview</strong></p>
-    </td>
-  </tr> -->
 
-  <tr>
-    <td align="center">
-      <img src="/Images/dashboard.png" style="max-width:100%; height:auto; border-radius:10px;" />
-      <p><strong>Executive Summary & KPI Overview</strong></p>
-    </td>
-  </tr>
 
-<!--  <tr>
+ <tr>
     <td align="center">
-      <a href="/Images/prediction.gif" target="_blank">
-        <img src="/Images/prediction.gif" 
+      <a href="/Images/Dashboard.png" target="_blank">
+        <img src="/Images/Dashboard.png" 
               alt="Vendor Performance Visuals"
               style="max-width:100%; height:auto; border-radius:10px;" />
       </a>
       <p><strong>Vendor Pareto, Inventory Risk & Profitability Analysis</strong></p>
     </td>
-  </tr> -->
+  </tr> 
 </table>
 
 ---
@@ -227,7 +211,7 @@ Combining descriptive BI with statistical validation ensured insights were not o
   </li>
 </ul>
 
-    </td>
+  </td>
   </tr>
 </table>
 
