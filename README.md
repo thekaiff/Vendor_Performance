@@ -297,7 +297,7 @@ Combining descriptive BI with statistical validation ensured insights were not o
       </p>
 
   <p>
-        📧 <strong>Email:</strong> kaifsdkpro@gmail.com
+        📧 <strong>Email:</strong> kaif.sdk.uae@gmail.com
       </p>
 
   <p>
